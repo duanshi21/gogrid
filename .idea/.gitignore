@@ -1,0 +1,39 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+vendor/
+
+# Go binary, executables and generated files
+*.exe
+*.test
+*.prof
+*.out
+*.test
+*.test-timeout
+*.testoutput
+*.cover
+*.coverage
+*.test-results.xml
+*.test-nat.out
+*.test-nat.tmp
+*.test-nat.log
+*.log
+*.trace
+*.core
+
+# Dependency directories (remove the ones that are not used in your project)
+.git/
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.xml
+.idea_modules/
+vendor/
+bin/
